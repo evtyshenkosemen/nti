@@ -14,7 +14,7 @@ https://ru.wikipedia.org/wiki/Атака_повторного_воспроизв
 
 Keywords: MITM, ARP-SPOORING, Replay, GNU Radio companion, USRP, Hack RF, GreatScottGadgets, SDR radio, sdrsharp, clunet
 
-**Каналы YouTube:** Леша Кластер, overbafer1, GreatScott!, MRX, DesignerMix
+**Каналы YouTube:** Леша Кластер, overbafer1, GreatScott!, MRX, DesignerMix, AKA KASYAN
 
 https://www.youtube.com/watch?v=kdfHe9hHnGQ - даже не думайте ничего заказывать по почте!
 
